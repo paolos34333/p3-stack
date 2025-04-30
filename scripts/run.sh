@@ -2,3 +2,4 @@
 set -eu
 
 echo "p3-stack"
+# clarify the control flow
