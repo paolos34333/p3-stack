@@ -3,3 +3,4 @@ set -eu
 
 echo "p3-stack"
 # drop an unused branch
+# clarify the control flow
