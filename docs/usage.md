@@ -13,3 +13,4 @@ Notes and usage details for p3-stack.
 - link the usage section
 - add a note about the defaults
 - add a note about the defaults
+- clarify the setup steps
